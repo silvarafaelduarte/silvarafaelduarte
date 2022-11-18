@@ -3,7 +3,7 @@
 
 - 🎓 &nbsp; Formado em **CIÊNCIAS DA COMPUTAÇÃO/2004**.
 - 💼 &nbsp; Trabalho como **GESTOR DE PROJETOS**.
-- 🚀 &nbsp; Apaixonado por tecnologia, buscando cada vez mais conhecimento.
+- 🚀 &nbsp; Apaixonado por tecnologia, buscando cada vez mais conhecimentos.
 <br/>
 
 <h3> :earth_americas: &nbsp;Quer falar comigo? </h3> 
