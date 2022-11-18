@@ -9,7 +9,7 @@
 <h3> :earth_americas: &nbsp;Quer falar comigo? </h3> 
 
 [![Linkedin: RAFAEL DUARTE SILVA](https://img.shields.io/badge/-rafaelduartesilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelduartesilva/)](https://www.linkedin.com/in/rafaelduartesilva/)
-[![Gmail Badge](https://img.shields.io/badge/-silva.rafaelduarte@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silva.rafaelduarte@gmail.com)](mailto:silva.rafaelduarte@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-silva.rafaelduarte@email.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:silva.rafaelduarte@gmail.com)](mailto:silva.rafaelduarte@gmail.com)
 [![GitHub RAFAEL DUARTE SILVA]( https://img.shields.io/github/followers/silvarafaelduarte?label=follow&style=social)](https://github.com/silvarafaelduarte)
 
 <br/>
