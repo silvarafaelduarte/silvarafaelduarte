@@ -1,7 +1,8 @@
 
 <h3> :boy: &nbsp;E ai jovem!!! Me chamo Rafael Silva </h3>
 
-- 🎓 &nbsp; Formado em **CIÊNCIAS DA COMPUTAÇÃO/2004**.
+- 🎓 &nbsp; Formado em **CIÊNCIAS DA COMPUTAÇÃO**.
+- 🎓 &nbsp; Formado em **ESPECIALIZAÇÃO EM PROJETOS DE SOFTWARE**.
 - 💼 &nbsp; Trabalho como **GERENTE DE PROJETOS / GERENTE DE TI**.
 - 🚀 &nbsp; Apaixonado por tecnologia, buscando cada vez mais conhecimentos.
 <br/>
