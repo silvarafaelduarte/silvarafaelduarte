@@ -1,9 +1,9 @@
 
 <h3> :boy: &nbsp;E ai jovem!!! Me chamo Rafael Silva </h3>
 
-- 🎓 &nbsp; Graduado em **CIÊNCIAS DA COMPUTAÇÃO**.
-- 🎓 &nbsp; Pós Graduado em **ESPECIALIZAÇÃO EM PROJETOS DE SOFTWARE**.
-- 💼 &nbsp; Trabalho como **GERENTE DE PROJETOS / GERENTE DE TI**.
+- 🎓 &nbsp; Graduado em **CIÊNCIAS DA COMPUTAÇÃO/2004**.
+- 🎓 &nbsp; Pós Graduado em **ESPECIALIZAÇÃO EM PROJETOS DE SOFTWARE/2024**.
+- 💼 &nbsp; Trabalho como **GERENTE DE PROJETOS / GERENTE DE TI deste 2013**.
 - 🚀 &nbsp; Apaixonado por tecnologia, buscando cada vez mais conhecimentos.
 <br/>
 
